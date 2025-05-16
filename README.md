@@ -32,3 +32,19 @@ with least linear measure of error as possible
 and showing a graph with 
 
 
+
+
+## Example Input and Output
+    --Input:
+    How many data points do you want? [5]
+
+    X|[1 2 3 4 5]
+    Y|[50 55 65 70 75]
+
+    --Output:
+    y = 6.5x + 43.5
+
+    (Then the graph of the formula and its original data points)
+
+    
+
